@@ -1,0 +1,22 @@
+#weekDays li{
+    list-style: none;
+    float: left;
+    width: 100px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+#weekDays{
+    height: 40px;
+    width: 800px;
+}
+#days li{
+    list-style: none;
+    float: left;
+    width: 100px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+#days{
+
+    width: 800px;
+}
